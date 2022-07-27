@@ -194,3 +194,25 @@ After training the model we get these results
 2. The validation accuracy =93%
 
 3. The test accuracy =84.4%
+
+# Here you will find two folders 
+# DL_model
+Contains
+
+1. DL_model.ipynb:network architecture model
+
+2. Model_weights
+
+3. Features_data(x_data) which is csv files
+
+4. Classes (y_data) which is csv files
+
+5. Predicted_values from model which is csv files
+
+# Extracted_preprocessing_data
+
+Contains two main folders
+
+1. Features extraction and pre-processing codes
+
+2. CSV files extracted and pre-processing features
