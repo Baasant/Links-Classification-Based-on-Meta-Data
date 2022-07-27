@@ -209,10 +209,9 @@ Contains
 
 5. Predicted_values from model which is csv files
 
-# Extracted_preprocessing_data
+# Data_preprocessing
 
-Contains two main folders
+Contains one main folder
 
 1. Features extraction and pre-processing codes
 
-2. CSV files extracted and pre-processing features
